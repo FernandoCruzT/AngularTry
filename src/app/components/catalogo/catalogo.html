@@ -1,0 +1,12 @@
+<header class="header">
+  <h1>Catálogo</h1>
+  <p>Ejemplo simple con Angular standalone + XML</p>
+</header>
+
+<section class="grid">
+  @for (p of products(); track p.id) {
+    <app-product-card [product]="p"></app-product-card>
+  } @empty {
+    <p>Cargando productos...</p>
+  }
+</section>

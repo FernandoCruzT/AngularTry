@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <id>1</id>
+    <name>Prueba Audífonos</name>
+    <price>599</price>
+    <imageUrl>https://picsum.photos/200/300</imageUrl>
+    <category>Audio</category>
+    <description>Producto de prueba</description>
+    <inStock>true</inStock>
+  </product>
+  
+  <product>
+    <id>2</id>
+    <name>Mouse Gamer</name>
+    <price>349</price>
+    <imageUrl>https://picsum.photos/200/301</imageUrl>
+    <category>Periféricos</category>
+    <description>Otro de prueba</description>
+    <inStock>false</inStock>
+  </product>
+</products>
