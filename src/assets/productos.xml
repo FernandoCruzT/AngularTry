@@ -17,6 +17,6 @@
     <imageUrl>https://picsum.photos/200/301</imageUrl>
     <category>Periféricos</category>
     <description>Otro de prueba</description>
-    <inStock>false</inStock>
+    <inStock>true</inStock>
   </product>
 </products>
